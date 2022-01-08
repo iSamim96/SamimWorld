@@ -97,7 +97,7 @@ http://195.201.82.32:5001/play/a02a
 http://195.201.82.32:5001/play/a00v
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" , Star Gold HD
 http://195.201.82.32:5001/play/a028
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" , Jalsha Movies HD
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" , Star Jalsha Movies HD
 http://195.201.82.32:5001/play/a00w
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" , Nick Bangla
 https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Bangla&q=800&e=junk.m3u8
