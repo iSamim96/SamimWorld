@@ -1,0 +1,139 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png", iLove
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=iLove&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhYqFZGxRzP5WbWv_HlFvzEgMGYtgQ2lMzH6KrgUw=s88-c-k-c0x00ffffff-no-rj", Zoom
+http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png", Zing
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zing&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png", Zee TV HD
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_TV_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png", Zee Cinema HD
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png", Zee Cinema
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Cinema&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png", Zee Bollywood
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Classic&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebangla/channel_web/1170x658_310781121.png", Zee Bangla HD
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=zeebangla
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebanglacinema/channel_web/1170x658withlog_1238879598.png", Zee Bangla Cinema
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=zeebanglacinema
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png", Zee Bangla
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Bangla&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png", UTV MOVIES-Rs 2
+http://103.153.39.36:8000/play/a01o
+#EXTINF:-1 tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png", UTV ACTION-Rs 2
+http://103.153.39.36:8000/play/a01p
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-378/channel_web/1170x658withlog_1900210183.png", TV9 Bangla
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=378
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png", TLC Hindi
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=TLC_Hindi&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/200x200_4b19b530-f0bb-4b26-a9de-f3cdd5f8be20.jpg", Sun Bangla
+https://techiesneh.in1.bitmana.io/snehapi/snxtapi/sneh-snxt.php?id=75117&e=.m3u8
+#EXTINF:-1 tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png", Star Plus HD -Rs19
+http://103.153.39.36:8000/play/a00m
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png", Star Jalsha HD
+http://208.86.19.21/908.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png", Star Gold SelHD-Rs10
+http://103.153.39.36:8000/play/a014
+#EXTINF:-1 tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png", Star Gold 2- Rs 1
+http://103.153.39.36:8000/play/a01q
+#EXTINF:-1 tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png", Star GOLD HD -Rs10
+http://103.153.39.36:8000/play/a012
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png", Sonic Bangla
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sonic_Bangla&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/pic/7073.FunTV.in/en/1x1/208x208/test_pic1595760664890.jpg", Shemaroo TV
+https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png", Sangeet Bangla
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sangeet_Bangla&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png", STAR BHARAT HD-Rs19
+http://103.153.39.36:8000/play/a010
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png", SONY SIX HD
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png", SONY PIX HD
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png", SONY PAL
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png", SONY MAX2
+https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png", SONY MAX HD
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png", SONY MAX
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png", SONY HD
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png", SONY AATH
+https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png", SAB HD
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-431/channel_web/rbangla_1170.png", Republic Bangla
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=431
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png", Pogo Hindi
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Pogo_Hindi&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png", Nickelodeon Jr.
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nickelodeon_Jr&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png", Nick Junior
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Junior&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png", Nick Hindi
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_Hindi&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png", Nick HD+
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Nick_HD_Plus&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png", National G HD-Rs10
+http://103.153.39.36:8000/play/a00x
+#EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/pic/0204.MusicIndia.in/en/1x1/208x208/test_pic1552392696883.jpg", Music India
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
+#EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/pic/6521.Movieplus.in/en/1x1/208x208/test_pic1559821113768.jpg", Movie Plus
+https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjP5nREg9AYPqGk6NnyZHoSOIzBmq3IWPxxg&usqp=CAU", Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png", MTV HD Plus
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=MTV_HD_Plus&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png", MTV Beats HD
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=MTV_Beats_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png", MTV
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=MTV&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Khusboo_TV.png", Khushboo TV
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Khusboo_TV&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png", Jalsha Movies HD
+http://208.86.19.21/716.stream/index.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png", History TV18 HD Hindi
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=History_18_Hindi&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-393/channel_web/1170x658_1715566364.png", Fashion TV Paris
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=393
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png", Enterr 10
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Enterr_10&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png", Discovery Science
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Science&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png", Discovery Channel Hindi
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Channel_Hindi&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png", Discovery Channel Bengali
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Channel_Bengali&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png", Colors Infinity HD
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Infinity_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png", Colors HD
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png", Colors Cineplex
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Cineplex&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png", Colors Bengali HD
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Bengali_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png", Cartoon Network Hindi
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Cartoon_Network_Hindi&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Box_Cinema.png", Box Cinema
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Box_Cinema&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png", B4U Music
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=B4U_Music&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png", Animal Planet Hindi
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Animal_Planet_Hindi&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png", Animal Planet HD World
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-402/channel_web/1170x658_916167039.png", ABP Ananda
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=402
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png", 9XM
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=9XM&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png", 9X Jalwa
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=9X_Jalwa&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-24ghantatv/channel_web/moupia_1170.png", 24 Ghanta
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=24ghantatv
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo_378606665.png", &TV HD
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=And_TV_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog_1476130363.png", &Pictures HD
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
